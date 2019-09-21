@@ -16,6 +16,7 @@
   "dependencies": {
     "ejs": "^2.7.1",
     "express": "^4.17.1",
+    "newrelic": "^5.11.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "styled-components": "^4.3.2"

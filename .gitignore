@@ -32,3 +32,6 @@ public/*bundle.js
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+# Config Files
+newrelic.js
